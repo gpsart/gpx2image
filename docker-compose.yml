@@ -1,9 +1,9 @@
 version: '3.0'
 
 services:
-  helloworld:
-    container_name: helloworld
+  gpx2img:
+    container_name: gpx2img
     build:
-      context: ./hello-world/
+      context: ./docker/
     volumes:
       - ./:/app/

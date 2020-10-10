@@ -1,22 +1,25 @@
 {
-  "name": "ivastly/gpx2image",
+  "name": "gpsart/gpx2image",
   "description": ".gpx route to png image converter.",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "github.com/ivastly"
+      "name": "github.com/gpsart"
     }
   ],
   "require": {
     "php": "7.2",
     "ext-sockets": "*",
-    "nesk/puphpeteer": "^1.6"
+    "nesk/puphpeteer": "^1.6",
+    "ext-xmlreader": "*",
+    "hyperized/xml-validator": "^1.4"
   },
   "config": {
     "platform": {
       "php": "7.2",
-      "ext-sockets": "7.2.23"
+      "ext-sockets": "7.2.23",
+      "ext-xmlreader": "7.2"
     }
   }
 }
