@@ -13,7 +13,8 @@
     "ext-sockets": "*",
     "nesk/puphpeteer": "^1.6",
     "ext-xmlreader": "*",
-    "hyperized/xml-validator": "^1.4"
+    "hyperized/xml-validator": "^1.4",
+    "ext-json": "*"
   },
   "config": {
     "platform": {

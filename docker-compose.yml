@@ -5,5 +5,7 @@ services:
     container_name: gpx2img
     build:
       context: ./docker/
+    ports:
+    - 8881:80
     volumes:
       - ./:/app/

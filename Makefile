@@ -8,4 +8,5 @@ run:
 	docker-compose run gpx2img php gpx2image.php ${file}
 
 service:
-	docker-compose run gpx2img php -m
+	docker-compose up -d
+	# then send POST /gpx2image.php with .gpx content as request body
