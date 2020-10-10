@@ -1,6 +1,6 @@
 {
-  "name": "ivastly/docker-puphpeteer",
-  "description": "Fully functional docker image for puphpeteer.",
+  "name": "ivastly/gpx2image",
+  "description": ".gpx route to png image converter.",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [

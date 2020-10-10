@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <name>strava_designed_route</name>
+  <author>
+   <name>Vasiliy Pyatykh</name>
+   <link href="https://www.strava.com/athletes/17919338"/>
+  </author>
+  <copyright author="OpenStreetMap contributors">
+   <year>2020</year>
+   <license>https://www.openstreetmap.org/copyright</license>
+  </copyright>
+  <link href="https://www.strava.com/routes/2749781921342832212"/>
+ </metadata>
+ <trk>
+  <name>strava_designed_route</name>
+  <link href="https://www.strava.com/routes/2749781921342832212"/>
+  <type>Бег</type>
+  <trkseg>
+   <trkpt lat="49.60298" lon="6.09351">
+    <ele>276.21</ele>
+   </trkpt>
+   <trkpt lat="49.603570000196996" lon="6.093609998815991">
+    <ele>278.69000000000005</ele>
+   </trkpt>
+   <trkpt lat="49.60416000000001" lon="6.093710000000001">
+    <ele>281.94</ele>
+   </trkpt>
+   <trkpt lat="49.60432" lon="6.09363">
+    <ele>284.02000000000004</ele>
+   </trkpt>
+   <trkpt lat="49.60436000000001" lon="6.09372">
+    <ele>284.05</ele>
+   </trkpt>
+   <trkpt lat="49.60432" lon="6.09363">
+    <ele>284.02000000000004</ele>
+   </trkpt>
+   <trkpt lat="49.604560000000006" lon="6.0940900000000005">
+    <ele>284.2</ele>
+   </trkpt>
+   <trkpt lat="49.60493" lon="6.094860000000001">
+    <ele>284.3</ele>
+   </trkpt>
+   <trkpt lat="49.60493" lon="6.09485">
+    <ele>284.31</ele>
+   </trkpt>
+   <trkpt lat="49.605030000000006" lon="6.09517">
+    <ele>283.83000000000004</ele>
+   </trkpt>
+   <trkpt lat="49.60515000713163" lon="6.0960799955072025">
+    <ele>283.11</ele>
+   </trkpt>
+   <trkpt lat="49.60527000712993" lon="6.096989995494192">
+    <ele>282.57000000000005</ele>
+   </trkpt>
+   <trkpt lat="49.60539000000001" lon="6.0979">
+    <ele>282.77000000000004</ele>
+   </trkpt>
+   <trkpt lat="49.605290000000004" lon="6.0978200000000005">
+    <ele>282.57000000000005</ele>
+   </trkpt>
+   <trkpt lat="49.60512000000001" lon="6.09776">
+    <ele>280.74000000000007</ele>
+   </trkpt>
+   <trkpt lat="49.604560000000006" lon="6.097700000000001">
+    <ele>276.73</ele>
+   </trkpt>
+   <trkpt lat="49.60387" lon="6.09757">
+    <ele>274.5</ele>
+   </trkpt>
+   <trkpt lat="49.603390000204136" lon="6.097374998096661">
+    <ele>272.24</ele>
+   </trkpt>
+   <trkpt lat="49.60291" lon="6.097180000000001">
+    <ele>270.78000000000003</ele>
+   </trkpt>
+   <trkpt lat="49.602610000000006" lon="6.097130000000001">
+    <ele>270.40000000000003</ele>
+   </trkpt>
+   <trkpt lat="49.602250000000005" lon="6.09712">
+    <ele>270.11</ele>
+   </trkpt>
+   <trkpt lat="49.602250000000005" lon="6.097320000000001">
+    <ele>270.02000000000004</ele>
+   </trkpt>
+   <trkpt lat="49.60226" lon="6.0966700000000005">
+    <ele>269.56</ele>
+   </trkpt>
+   <trkpt lat="49.60230000000001" lon="6.09602">
+    <ele>270.01000000000005</ele>
+   </trkpt>
+   <trkpt lat="49.60264" lon="6.094790000000001">
+    <ele>272.36</ele>
+   </trkpt>
+   <trkpt lat="49.60275000000001" lon="6.09421">
+    <ele>274.6</ele>
+   </trkpt>
+   <trkpt lat="49.602790000000006" lon="6.093940000000001">
+    <ele>274.64</ele>
+   </trkpt>
+   <trkpt lat="49.60282" lon="6.0934800000000005">
+    <ele>275.42</ele>
+   </trkpt>
+   <trkpt lat="49.602970000000006" lon="6.09351">
+    <ele>276.2</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
